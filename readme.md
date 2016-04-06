@@ -14,11 +14,13 @@ There is a configuration file, that changes the different configuration options 
  - sikit-image
  - matplotlib
 
-License
+### License
 
 BSD
 
-Documentaton
+### Documentaton
 
 There is a configuration file, that changes the different configuration options for the different image transformation. 
+
+There is an example file attached in the file `C-01_m004.txt`. The results are `.png` files. 
 
